@@ -1,0 +1,49 @@
+{
+  "term": "Spring",
+  "year": "2009",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Econometrics"
+    ]
+  ],
+  "legacy_uid": "9d2bab98-c627-8a44-9302-e1dfc2af246d",
+  "instructors": {
+    "content": [
+      "8143efa5-9d35-41f4-2c00-7654f1efacfc"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "955ef7f6-a4c6-4a0a-05b0-39b159fd5bcc",
+    "website": "14-30-introduction-to-statistical-methods-in-economics-spring-2009"
+  },
+  "course_title": "Introduction to Statistical Methods in Economics",
+  "course_description": "This course will provide a solid foundation in probability and statistics for economists and other social scientists. We will emphasize topics needed for further study of econometrics and provide basic preparation for _14.32 Econometrics_. Topics include elements of probability theory, sampling theory, statistical estimation, and hypothesis testing.",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.30",
+  "course_image_thumbnail": {
+    "content": "1eaccb61-c28f-6773-9e78-677bb471e5b1",
+    "website": "14-30-introduction-to-statistical-methods-in-economics-spring-2009"
+  },
+  "learning_resource_types": [
+    "Exams",
+    "Lecture Notes",
+    "Problem Sets with Solutions"
+  ],
+  "site_uid": "491bf66e-d3fc-4dfc-bdc5-8dab99aef3a1",
+  "site_short_id": "14.30-spring-2009",
+  "site_url_path": "courses/14-30-introduction-to-statistical-methods-in-economics-spring-2009",
+  "title": "Course Metadata"
+}
