@@ -16,11 +16,11 @@ Recitations: 1 session / week, 1 hour / session
 
 ## Description
 
-This course will provide a solid foundation in probability and statistics for economists and other social scientists. We will emphasize topics needed for further study of econometrics and provide basic preparation for {{% resource_link "073fd07f-e73d-4928-ac4b-678961894b16" "_14.32 Econometrics_" %}}. Topics include elements of probability theory, sampling theory, statistical estimation, and hypothesis testing.
+This course will provide a solid foundation in probability and statistics for economists and other social scientists. We will emphasize topics needed for further study of econometrics and provide basic preparation for [_14.32 Econometrics_](https://ocw.mit.edu/courses/economics/14-32-econometrics-spring-2007/). Topics include elements of probability theory, sampling theory, statistical estimation, and hypothesis testing.
 
 ## Prerequisites
 
-No prior preparation in probability in statistics is required, but familiarity with basic algebra and calculus (single and multi-variable) is assumed. Calculus at the level of {{% resource_link "692803b7-1c25-4649-b9bb-ad6c0334a726" "_18.01 Single Variable Calculus_" %}} and {{% resource_link "2b1346fd-7b9d-4fcd-a3bf-c4bf87df153b" "_18.02 Multivariable Calculus_" %}} is sufficient.
+No prior preparation in probability in statistics is required, but familiarity with basic algebra and calculus (single and multi-variable) is assumed. Calculus at the level of [_18.01 Single Variable Calculus_](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/) and [_18.02 Multivariable Calculus_](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/) is sufficient.
 
 ## Textbooks
 
